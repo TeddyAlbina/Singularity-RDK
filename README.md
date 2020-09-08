@@ -10,7 +10,7 @@ The Singularity Research Development Kit (RDK) is a Shared Source project based 
 
 ## Project Description
 
-The Singularity Research Development Kit (RDK) is based on the [Microsoft Research](http://research.microsoft.com/) [Singularity Project](http://research.microsoft.com/os/singularity). It includes source code, build tools, test suites, design notes, and other background materials. The Singularity RDK is for academic non-commercial use and is governed by this license.
+The Singularity Research Development Kit (RDK) is based on the [Microsoft Research](http://research.microsoft.com/) [Singularity Project](http://research.microsoft.com/os/singularity). It includes source code, build tools, test suites, design notes, and other background materials. The Singularity RDK is for academic non-commercial use and is governed by this [license](LICENSE).
 
 ## About Singularity
 
