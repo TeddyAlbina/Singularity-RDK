@@ -21,8 +21,11 @@ Advances in languages, compilers, and tools open the possibility of significantl
 Singularity uses these advances to build more reliable systems and applications. For example, because SIPs are so cheap to create and enforce, Singularity runs each program, device driver, or system extension in its own SIP. SIPs are not allowed to share memory or modify their own code. As a result, we can make strong reliability guarantees about the code running in a SIP. We can verify much broader properties about a SIP at compile or install time than can be done for code running in traditional OS processes. Broader application of static verification is critical to predicting system behavior and providing users with strong guarantees about reliability.
 
 See also:
+
 [Singularity: Rethinking Dependable System Design](http://research.microsoft.com/en-us/news/features/singularity.aspx)
+
 [Singularity: Rethinking the Software Stack](http://research.microsoft.com/apps/pubs/default.aspx?id=69431)
+
 [Using the Singularity Research Development Kit](http://research.microsoft.com/en-us/projects/singularity/asplos2008_singularity_rdk_tutorial.pdf)
 
 ![](arch.jpg)
